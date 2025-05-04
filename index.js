@@ -58,7 +58,7 @@ app.post('/contact', async (req, res) => {
           </table>
 
           <div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #e2e8f0; color: #718096;">
-            <small>Copyright © URVISA 2024 All Rights Reserved.</small>
+            <small>Copyright © URVISA 2025 All Rights Reserved.</small>
           </div>
         </div>
       `,
